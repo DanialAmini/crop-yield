@@ -1,0 +1,110 @@
+﻿Farm,Province,Province_number,County,County_number,Region,Region_NW1_SW2_NE3,Farm_number,Water_source_well_canal,Water_source_well0_canal1,network_type,network_traditional0_modern1,Ecwat,crop_area_ha,soil_texture,soil_texture_heavy0normallight1,Ecsoil,cultivarV,cultivar_704_1_other_2,growth_days_GI,irrigation_method,irrig_method_surf0_pressure1,irrigation_count,yield_tonha,Climate,Climate_cold0_warm1,ETo_mm,elevation_m,literacy,education_1preHS_2HS_3above HS,irrig_water_m3ha
+1,Alborz,1,Karaj,1,NW,1,1,well,0,traditional,0,0.38,8,Loam,1,0.42,704,1,97,surface,1,10,45.0,semi arid cold,0,594.2,1292.9,bachelor,3,10670
+2,Alborz,1,Karaj,1,NW,1,2,well,0,traditional,0,0.38,11.5,Loam,1,0.42,704,1,97,surface,1,8,60.0,semi arid cold,0,594.2,1292.9,bachelor,3,9070
+3,Alborz,1,Karaj,1,NW,1,3,well,0,traditional,0,0.38,4.5,Loam,1,0.42,704,1,97,surface,1,7,33.4,semi arid cold,0,594.2,1292.9,bachelor,3,6300
+4,Alborz,1,Karaj,1,NW,1,4,well,0,traditional,0,0.37,16,Clayey loam,0,0.63,704,1,98,surface,1,10,59.4,semi arid cold,0,537.4,1612.9,bachelor,3,8978
+5,Alborz,1,Hashtgerd,2,NW,1,5,canal,1,modern,1,0.41,4,Loam,1,0.49,704,1,96,surface,1,8,50.0,semi arid cold,0,548.3,1612.9,bachelor,3,9257
+6,Alborz,1,Hashtgerd,2,NW,1,6,well,0,modern,1,0.26,4,Loam,1,0.79,704,1,98,tape,0,21,60.0,semi arid cold,0,560.7,1612.9,bachelor,3,4478
+7,Tehran,2,EslamShahr,3,NW,1,1,well,0,modern,1,0.60,12,Gravelly loam,1,1.11,704,1,106,sprinkler,0,10,49.8,arid-cold,0,744.2,1162.9,bachelor,3,7050
+8,Tehran,2,EslamShahr,3,NW,1,2,well,0,modern,1,0.60,10,Gravelly loam,1,1.11,704,1,96,sprinkler,0,10,41.0,arid-cold,0,649.5,1162.9,bachelor,3,6920
+9,Tehran,2,EslamShahr,3,NW,1,3,well,0,modern,1,0.60,9,Gravelly loam,1,1.11,704,1,102,sprinkler,0,8,33.5,arid-cold,0,699.5,1162.9,bachelor,3,6800
+10,Tehran,2,EslamShahr,3,NW,1,4,canal,1,traditional,0,0.94,17,Clayey loam,0,1.75,704,1,92,surface,1,8,45.0,arid-cold,0,731.8,1162.9,bachelor,3,6430
+11,Tehran,2,EslamShahr,3,NW,1,5,canal,1,traditional,0,0.94,6,Clayey loam,0,1.75,704,1,91,surface,1,9,48.0,arid-cold,0,597.4,1162.9,bachelor,3,6930
+12,Tehran,2,EslamShahr,3,NW,1,6,canal,1,traditional,0,0.94,9,Clayey loam,0,1.75,704,1,91,surface,1,9,50.0,arid-cold,0,654.3,1162.9,bachelor,3,6930
+13,Tehran,2,EslamShahr,3,NW,1,7,canal,1,modern,1,0.94,3,Clayey loam,0,1.75,704,1,94,surface,1,9,68.0,arid-cold,0,533.5,1162.9,middle,1,6930
+14,Tehran,2,EslamShahr,3,NW,1,8,well,0,modern,1,0.78,3.5,Clayey loam,0,0.92,704,1,104,sprinkler,0,9,65.0,arid-cold,0,488.0,1162.9,bachelor,3,6640
+15,Tehran,2,EslamShahr,3,NW,1,9,well,0,modern,1,0.78,5,Clayey loam,0,1.56,704,1,90,sprinkler,0,9,67.0,arid-cold,0,654.3,1162.9,bachelor,3,6800
+16,Tehran,2,Pakdasht,4,NW,1,10,well,0,modern,1,0.72,4,Silty Clay,0,1.08,704,1,112,sprinkler,0,8,48.0,arid-cold,0,634.6,968.0,bachelor,3,6150
+17,Tehran,2,Pakdasht,4,NW,1,11,well,0,modern,1,0.94,6,Clayey loam,0,1.41,704,1,113,sprinkler,0,7,50,arid-cold,0,636.4,965,bachelor,3,6250
+18,Tehran,2,Pakdasht,4,NW,1,12,well,0,traditional,0,1.45,24,Silty Clay,0,2.18,704,1,113,surface,1,9,65.0,arid-cold,0,676.8,973.0,highschool,2,6290
+19,Tehran,2,Pakdasht,4,NW,1,13,well,0,traditional,0,0.55,2,Clayey loam,0,0.93,704,1,86,surface,1,7,52.0,arid-cold,0,671.0,1036.0,highschool,2,6480
+20,Tehran,2,Pakdasht,4,NW,1,14,canal,1,modern,1,0.80,3,Clay,0,1.31,704,1,90,surface,1,7,50.0,arid-cold,0,707.1,990.0,highschool,2,5480
+21,Tehran,2,Pakdasht,4,NW,1,15,well,0,modern,1,-,8,Clayey loam,0,-,704,1,96,drip,0,12,65.0,arid-cold,0,583.2,973.0,highschool,2,3120
+22,Tehran,2,Pakdasht,4,NW,1,16,well,0,traditional,0,0.60,8,Clayey loam,0,3.47,704,1,95,surface,1,6,55.0,arid-cold,0,653.2,1006.0,highschool,2,7690
+23,Tehran,2,Shahrerey,5,NW,1,17,well,0,traditional,0,-,3,Clayey loam,0,-,704,1,-,surface,1,7,55.0,arid-cold,0,752.4,1013.0,highschool,2,6440
+24,Tehran,2,Shahrerey,5,NW,1,18,well,0,traditional,0,2.47,3.5,Clayey loam,0,-,704,1,84,surface,1,6,62.9,arid-cold,0,527.8,1007.0,highschool,2,7040
+25,Tehran,2,Shahrerey,5,NW,1,19,well,0,traditional,0,1.00,4,Clayey loam,0,-,706,2,85,surface,1,5,52.7,arid-cold,0,498.5,1017.0,bachelor,3,4922
+26,Gazvin,3,Abyek,6,NW,1,1,well,0,modern,1,1.6,28,Gravelly loam,1,0.76,704,1,113,sprinkler,0,15,60.3,semi arid cold,0,691.1,1279.1,bachelor,3,9124.0
+27,Gazvin,3,Abyek,6,NW,1,2,well,0,traditional,0,1.4,6,Loam,1,1.12,703,2,89,surface,1,8,46.0,semi arid cold,0,616.5,1279.1,highschool,2,6891.0
+28,Gazvin,3,Abyek,6,NW,1,3,well,0,traditional,0,3.9,6,Clayey loam,0,2.29,704,1,102,surface,1,7,58.0,semi arid cold,0,517.0,1279.1,master,3,11860.0
+29,Gazvin,3,Abyek,6,NW,1,4,well,0,traditional,0,3.7,25,Clayey loam,0,1.78,704,1,109,surface,1,6,42.0,semi arid cold,0,530.4,1279.1,middle,1,7920.0
+30,Gazvin,3,Abyek,6,NW,1,5,well,0,traditional,0,2.75,21,Loamy clay,0,1.51,704,1,99,surface,1,8,45.7,semi arid cold,0,553.9,1279.1,middle,1,7668.0
+31,Gazvin,3,BoyeenZahra,7,NW,1,6,well,0,traditional,0,3.9,12,Clayey loam,0,2.42,704,1,100,surface,1,5,46.0,arid-cold,0,824.7,1282,master,3,7344.0
+32,Gazvin,3,BoyeenZahra,7,NW,1,7,well,0,traditional,0,3.541,20,Clay-Loam,0,2.89,704,1,112,surface,1,7,52.0,arid-cold,0,815.2,1282,bachelor,3,9900.0
+33,Gazvin,3,BoyeenZahra,7,NW,1,8,well,0,traditional,0,2,14,Clayey loam,0,3.32,601,2,113,surface,1,6,55.0,arid-cold,0,809.6,1282,highschool,2,8100.0
+34,Gazvin,3,BoyeenZahra,7,NW,1,9,well,0,modern,1,4.2,30,Clay,0,2.56,703,2,112,tape,0,15,44.0,arid-cold,0,776.8,1282,bachelor,3,5800.0
+35,Gazvin,3,BoyeenZahra,7,NW,1,10,well,0,modern,1,1.8,20,Clay,0,2.10,703,2,111,tape,0,14,42.0,arid-cold,0,590.4,1282,bachelor,3,5400
+36,Ardabil,4,Moghan,8,NW,1,1,canal,1,modern,1,1.1,2,Clayey loam,0,-,704,1,80,surface,1,4,40,semi arid cold,0,461,98.5,middle,1,5080
+37,Ardabil,4,Moghan,8,NW,1,2,canal,1,modern,1,1.1,13,Clayey loam,0,-,704,1,87,surface,1,6,30,semi arid cold,0,444,121,middle,1,7470
+38,Ardabil,4,Moghan,8,NW,1,3,canal,1,modern,1,1.1,17.5,Clayey loam,0,-,704,1,92,surface,1,4,32,semi arid cold,0,398,127,middle,1,5490
+39,Ardabil,4,Moghan,8,NW,1,4,canal,1,modern,1,1.1,4,Clayey loam,0,-,704,1,77,surface,1,4,32,semi arid cold,0,407,75,bachelor,3,5100
+40,Ardabil,4,Moghan,8,NW,1,5,canal,1,modern,1,1.1,6,Clayey loam,0,-,704,1,80,surface,1,5,30,semi arid cold,0,438,82,middle,1,5800
+41,Ardabil,4,Moghan,8,NW,1,6,canal,1,modern,1,1.1,3.5,Clayey loam,0,-,704,1,87,surface,1,5,33,semi arid cold,0,382,76,middle,1,6270
+42,Esfahan,5,Shahinshar,9,SW,2,1,well,0,traditional,0,1.7,10,Clayey loam,0,1.4,704,1,110,furrow,1,12,85.0,arid-cold,0,800.4,1601,highschool,2,8600
+43,Esfahan,5,Shahinshar,9,SW,2,2,well,0,traditional,0,2.6,2,Clayey Silty,0,1.6,704,1,110,furrow,1,8,50.0,arid-cold,0,800.4,1593,elementary,1,6580
+44,Esfahan,5,Shahinshar,9,SW,2,3,well,0,traditional,0,0.8,0.5,Loam,1,3,704,1,110,furrow,1,16,82.0,arid-cold,0,794.7,2019,highschool,2,11907
+45,Esfahan,5,Shahinshar,9,SW,2,4,well,0,traditional,0,1.8,6,Silty Clayey Loam,0,1.5,704,1,92,furrow,1,7,62.0,arid-cold,0,602.2,1589,middle,1,10170
+46,Esfahan,5,Shahinshar,9,SW,2,5,well,0,traditional,0,3.5,5,Gravelly loam,1,7,704,1,102,furrow,1,12,25.0,arid-cold,0,732.5,1676,bachelor,3,10080
+47,Esfahan,5,Shahinshar,9,SW,2,6,well,0,modern,1,3.5,4.5,Gravelly loam,1,7,704,1,102,tape,0,28,35.0,arid-cold,0,732.5,1676,bachelor,3,6100
+48,Esfahan,5,Shahinshar,9,SW,2,7,well,0,modern,1,5,83,Gravelly loam,1,5.5,704,1,102,tape,0,39,40.0,arid-cold,0,732.5,1676,elementary,1,5890
+49,Esfahan,5,Shahinshar,9,SW,2,8,well,0,modern,1,0.8,5.4,Loam,1,3,704,1,110,tape,0,21,75.0,arid-cold,0,794.7,2019,highschool,2,6480
+50,Esfahan,5,Shahinshar,9,SW,2,9,well,0,modern,1,1.8,14,Clayey Silty Loam,0,1.5,704,1,92,tape,0,19,70.0,arid-cold,0,602.2,1589,middle,1,6200
+51,Fars,6,Sepidan,10,SW,2,1,well,0,traditional,0,1.80,3.5,Heavy,0,1.99,704,1,88,surface,1,15,60,semi wet cold,0,632.4,1600,highschool,2,9450
+52,Fars,6,Marvdasht,11,SW,2,2,well,0,traditional,0,0.93,2.5,Heavy,0,1.96,704,1,98,surface,1,10,24.5,semi arid cold,0,653.3,1560,elementary,1,10384
+53,Fars,6,Marvdasht,11,SW,2,3,well,0,traditional,0,0.67,1.5,Heavy,0,1.24,704,1,88,surface,1,9,65,semi arid cold,0,527.0,1700,highschool,2,9658
+54,Fars,6,Marvdasht,11,SW,2,4,well,0,traditional,0,0.84,4,Heavy,0,1.92,704,1,92,surface,1,12,60,semi arid cold,0,579.7,1560,middle,1,12867
+55,Fars,6,Sepidan,10,SW,2,5,well,0,traditional,0,1.80,2,Heavy,0,2.47,704,1,112,surface,1,15,65,semi wet cold,0,689.2,1600,highschool,2,9720
+56,Fars,6,Sepidan,10,SW,2,6,well,0,traditional,0,3.48,1.4,normal,1,5.87,704,1,102,surface,1,16,35,semi wet cold,0,643.7,1600,elementary,1,11414
+57,Fars,6,Sepidan,10,SW,2,7,well,0,traditional,0,1.24,0.6,normal,1,2.2,704,1,82,surface,1,18,67,semi wet cold,0,464.6,1600,highschool,2,10756
+58,Fars,6,Sepidan,10,SW,2,8,well,0,modern,1,3.48,1,normal,1,4.86,برکت جوین,2,79,tape drip,0,17,65,semi wet cold,0,453.4,1600,elementary,1,6347
+59,Fars,6,Marvdasht,11,SW,2,9,well,0,modern,1,0.89,3,Heavy,0,1.61,704,1,117,tape drip,0,15,80,semi arid cold,0,726.9,1560,bachelor,3,5330
+60,Fars,6,Marvdasht,11,SW,2,10,well,0,modern,1,0.79,37,Heavy,0,2.13,704,1,92,tape drip,0,10,90,semi arid cold,0,780.6,1560,highschool,2,4533
+61,Fars,6,Sepidan,10,SW,2,11,well,0,modern,1,1.79,3,Heavy,0,2.15,704,1,106,tape,0,15,67,semi wet cold,0,643.5,1600,highschool,2,6844
+62,Fars,6,Marvdasht,11,SW,2,12,well,0,modern,1,0.95,2,normal,1,2.25,704,1,95,sprinkler,0,8,79,semi arid cold,0,549.8,1560,preuniversity,3,7787
+63,KhorasanR,7,Chanaran,12,NE,3,1,well,0,modern,1,2.1,10,normal,1,3.15,ماکزیما,2,84,tape,0,27,80,semi arid cold,0,716.3,999.2,highschool,2,10800
+64,KhorasanR,7,Chanaran,12,NE,3,2,well,0,modern,1,0.9,10,normal,1,1.35,NS,2,101,tape,0,36,130,semi arid cold,0,881.4,999.2,highschool,2,12960
+65,KhorasanR,7,Chanaran,12,NE,3,3,well,0,modern,1,0.9,20,normal,1,1.35,NS,2,91,tape,0,33,125,semi arid cold,0,846.2,999.2,highschool,2,11880
+66,KhorasanR,7,TorbatJam,13,NE,3,4,well,0,modern,1,0.52,12,light,1,0.78,بولسون,2,61,tape,0,13,70,arid cold,0,540.2,950.4,middle,1,9360
+67,KhorasanR,7,Chanaran,12,NE,3,5,well,0,modern,1,0.68,50,normal,1,1.02,704,1,93,tape,0,9,65,semi arid cold,0,868.8,950.4,middle,1,7560
+68,KhorasanR,7,Chanaran,12,NE,3,6,well,0,modern,1,1.52,20,light,1,2.28,704,1,108,tape,0,26,85,semi arid cold,0,1055.1,950.4,bachelor,3,10920
+69,KhorasanR,7,Jovain,14,NE,3,7,well,0,modern,1,0.63,12,Loam,1,-,704,1,101,tape,0,17,80,semi arid very cold,0,,1115,highschool,2,6850
+70,KhorasanR,7,Chanaran,12,NE,3,8,well,0,modern,1,2.4,25,normal,1,3.6,704,1,86,surface,1,13,108,semi arid cold,0,588.5,999.2,highschool,2,8450
+71,KhorasanR,7,TorbatJam,13,NE,3,9,well,0,traditional,0,2.1,17,normal,1,3.15,704,1,108,surface,1,16,85,arid cold,0,911.7,999.2,highschool,2,12160
+72,KhorasanR,7,TorbatJam,13,NE,3,10,well,0,traditional,0,1.7,10,Heavy,0,2.55,704,1,87,surface,1,14,80,arid cold,0,778.7,999.2,doctor,3,12040
+73,KhorasanR,7,TorbatJam,13,NE,3,11,well,0,modern,1,0.52,4,light,1,0.78,بولسون,2,61,surface,1,8,65,arid cold,0,540.2,950.4,middle,1,8560
+74,KhorasanR,7,TorbatJam,13,NE,3,12,well,0,traditional,0,2.29,3,Heavy,0,3.435,ماکزیما,2,92,surface,1,13,100,arid cold,0,792.6,950.4,middle,1,11180
+75,KhorasanR,7,TorbatJam,13,NE,3,13,well,0,traditional,0,1.3,4,light,1,1.95,704,1,90,surface,1,12,51,arid cold,0,875.6,950.4,highschool,2,13440
+76,KhorasanR,7,Jovain,14,NE,3,14,well,0,traditional,0,0.47,2,loam,1,-,704,1,109,surface,1,8,50,semi arid very cold,0,,1078,middle,1,7987
+77,KhorasanR,7,Jovain,14,NE,3,15,well,0,traditional,0,0.9,5,loam,1,-,-,2,101,surface,1,8,50,semi arid very cold,0,,1086,middle,1,9216
+78,KhorasanR,7,Jovain,14,NE,3,16,well,0,modern,1,0.7,15,light,1,-,-,2,103,sprinkler,0,17,45,semi arid very cold,0,,1100,bachelor,3,6720
+79,KhorasanR,7,Jovain,14,NE,3,17,well,0,modern,1,1.62,8,normal,1,-,-,2,82,sprinkler,0,14,50,semi arid very cold,0,,1111,bachelor,3,6658
+80,KhorasanR,7,Jovain,14,NE,3,18,well,0,modern,1,0.52,5,normal,1,-,-,2,106,sprinkler,0,15,50,semi arid very cold,0,,1095,bachelor,3,7776
+81,Khozestan,8,Behbahan,15,SW,2,1,river,1,modern,1,1.64,11,Loam,1,4.00,  Simon,2,106,sprinkler,0,33,59,semi arid warm,1,530,377,bachelor,3,7389
+82,Khozestan,8,Behbahan,15,SW,2,2,river,1,modern,1,1.64,7.3,Loam,1,4.00,  Simon,2,106,sprinkler,0,29,60,semi arid warm,1,530,371,bachelor,3,7552
+83,Khozestan,8,Behbahan,15,SW,2,3,river,1,modern,1,1.64,7.2,Loam,1,4.00,DKC6589,2,119,sprinkler,0,26,65,semi arid warm,1,590.5,365,highschool,2,6024
+84,Khozestan,8,Behbahan,15,SW,2,4,well,0,modern,1,4.41,7.7,clayey loam,0,6.10,مغان,2,92,sprinkler,0,28,49,semi arid warm,1,553.2,310,highschool,2,5308
+85,Khozestan,8,Behbahan,15,SW,2,5,river,1,modern,1,1.64,18,Loam,1,4.00,  Simon,2,109,sprinkler,0,23,53,semi arid warm,1,530,370,highschool,2,7888
+86,Khozestan,8,Behbahan,15,SW,2,6,river,1,modern,1,1.64,8,Loam,1,4.00,  Simon,2,116,sprinkler,0,24,57,semi arid warm,1,550,368,highschool,2,6250
+87,Khozestan,8,Behbahan,15,SW,2,7,well,0,modern,1,5.23,10.3,Loam,1,-,مغان,2,90,sprinkler,0,31,48,semi arid warm,1,480,145,highschool,2,4826
+88,Khozestan,8,Behbahan,15,SW,2,8,well,0,modern,1,2.65,33.9,Loam,1,-,  Simon,2,93,sprinkler,0,42,55,semi arid warm,1,550,375,middle,1,10693
+89,Khozestan,8,Behbahan,15,SW,2,9,well,0,modern,1,3.52,28.4,Loam,1,11.80,BC  آمریکایی ,2,93,drip,0,26,73,semi arid warm,1,530,378,highschool,2,6984
+90,Khozestan,8,Behbahan,15,SW,2,10,well,0,traditional,0,2.79,22,Loam,1,5.30,برکت,2,73,surface,1,17,35,semi arid warm,1,590,363,highschool,1,8349
+91,Khozestan,8,Behbahan,15,SW,2,11,well,0,traditional,0,2.79,12.7,Loam,1,5.30,مغان,2,132,surface,1,30,33,semi arid warm,1,590,363,highschool,1,14733
+92,Khozestan,8,Behbahan,15,SW,2,12,river,1,modern,1,1.58,5.1,Clayey loam,0,3.70,مغان,2,105,surface,1,15,50,semi arid warm,1,550,306,highschool,2,9609
+93,Khozestan,8,Behbahan,15,SW,2,13,river,1,modern,1,1.58,5.4,Clayey loam,0,3.70,برکت,2,95,surface,1,10,59,semi arid warm,1,503,307,highschool,2,4993
+94,Khozestan,8,Dezful,16,SW,2,14,network,1,modern,1,0.75,3.5,Loam,1,3.60,703,2,89,surface,1,10,41.8,semi arid warm,1,523.5,82.9,elementary,1,5454
+95,Khozestan,8,Dezful,16,SW,2,15,network,1,modern,1,0.75,3.4,clay,0,0.95,704,1,125,surface,1,12,-,semi arid warm,1,491.3,82.9,elementary,1,10275
+96,Khozestan,8,Dezful,16,SW,2,16,network,1,modern,1,0.75,6,clayey loam,0,1.50,NS640,2,125,surface,1,11,-,semi arid warm,1,491.3,82.9,highschool,2,6756
+97,Khozestan,8,Dezful,16,SW,2,17,network,1,modern,1,0.75,9,clayey loam,0,1.00,704,1,95,surface,1,10,52.7,semi arid warm,1,491.3,82.9,elementary,1,7243
+98,Khozestan,8,Dezful,16,SW,2,18,river,1,traditional,0,0.75,1,silty clay loam,0,1.10,مغان,2,79,surface,1,12,34.4,semi arid warm,1,523.5,82.9,middle,1,7948
+99,Khozestan,8,Dezful,16,SW,2,19,well,0,traditional,0,0.75,2.6,Loam,1,1.10,NS770,2,120,surface,1,11,-,semi arid warm,1,523.5,82.9,elementary,1,6932
+100,Khozestan,8,Dezful,16,SW,2,20,network,1,modern,1,0.75,1.75,normal,1,1.20,704,1,94,surface,1,8,33.0,semi arid warm,1,523.5,82.9,middle,1,6089
+101,Khozestan,8,Dezful,16,SW,2,21,network,1,modern,1,0.75,5,normal,1,1.20,704,1,84,surface,1,10,40.0,semi arid warm,1,491.3,82.9,bachelor,3,6261
+102,Khozestan,8,Dezful,16,SW,2,22,network,1,modern,1,0.75,3,relatively heavy,0,0.95,مغان,2,87,surface,1,11,38.0,semi arid warm,1,523.5,82.9,middle,1,6019
+103,Khozestan,8,Dezful,16,SW,2,23,network,1,modern,1,0.75,15,relatively heavy,0,1.00,703,2,89,surface,1,11,46.0,semi arid warm,1,523.5,82.9,highschool,1,7966
+104,Khozestan,8,Dezful,16,SW,2,24,network,1,modern,1,0.75,6,relatively heavy,0,2.50,703,2,102,surface,1,,38.3,semi arid warm,1,506,82.9,highschool,1,7023
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
