@@ -1,0 +1,12 @@
+﻿Province,County,Farm_count,Yield_tonha,Yield1_kgha,Ecwat_dSm,Ecsoil_dSm,Farm_area_ha,GD_days,Irrig_depth_mm,Rain_Growth_mm,EffectiveRain_Growth_mm,IrrigWat_m3ha
+Fars,Kazerun-Marvdasht-Sepidan,23,86.1,55950,0.75,1.52,2.5,138,21,68,40,10018
+KermanSouth,RoudbarJonoub-Kahnouj-AnbarAbad,21,28.6,34495,1.42,1.68,2.7,156,14,222,167,5109
+Hormozgan,Minab-Jask,12,52,38542,2.47,5.37,5.5,130,8.9,425,140,6157
+Boushehr,Abdan-Bardkhoun-Kaki-Barazjan,24,48.9,52824,3.18,5.77,3.02,162,6.2,358,269,4648
+KhorasanRazavi,Mashhad-Chenaran-TorbatJam,31,64.2,43000,1.62,1.08,8.52,130,50.7,40,30,11714
+Qazvin,Qazvin-Takestan,16,59.4,54698,1.47,1.39,7.92,159,23.5,9,7,11129
+Khuzestan,Dezful-Andimeshk-Shush-Gotvand,16,89.6,38714,1.28,2.08,3.5,153,16.6,622,214,5546
+Golestan,Ramyan,8,71,43909,1.59,1.05,1.09,133,36,211,141,3752
+Zanjan,Zanjan-Abhar,17,43.1,51475,1.02,1.58,4.18,152,20.8,24,18,8877
+Hamedan,AsadAbad-Nahavand,8,62.2,42587,0.67,0.74,1.85,149,31.4,110,55,10255
+Semnan,Shahrud-Miami-Bastam,9,77,31700,0.92,1.52,3.22,148,21,18,8,8357
