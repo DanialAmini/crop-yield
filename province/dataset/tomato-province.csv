@@ -1,4 +1,4 @@
-﻿Province,County,Farm_count,Yield_tonha,Yield1_kgha,Ecwat_dSm,Ecsoil_dSm,Farm_area_ha,GD_days,Irrig_depth_mm,Rain_Growth_mm,EffectiveRain_Growth_mm,IrrigWat_m3ha
+Province,County,Farm_count,Yield_tonha,Yield1_kgha,Ecwat_dSm,Ecsoil_dSm,Farm_area_ha,GD_days,Irrig_depth_mm,Rain_Growth_mm,EffectiveRain_Growth_mm,IrrigWat_m3ha
 Fars,Kazerun-Marvdasht-Sepidan,23,86.1,55950,0.75,1.52,2.5,138,21,68,40,10018
 KermanSouth,RoudbarJonoub-Kahnouj-AnbarAbad,21,28.6,34495,1.42,1.68,2.7,156,14,222,167,5109
 Hormozgan,Minab-Jask,12,52,38542,2.47,5.37,5.5,130,8.9,425,140,6157

@@ -1,4 +1,4 @@
-﻿ProvinceNo,Province,Province_number,FarmCount,CountyCount,Region,Region_NW1_SW2_NE3,Water_source_well0_canal1,network_traditional0_modern1,Ecwat,crop_area_ha,soil_texture_heavy0normallight1,Ecsoil,cultivar_704_1_other_2,growth_days_GI,irrig_method_surf0_pressure1,irrigation_count,yield_tonha,Climate,Climate_cold0_warm1,ETo_mm,elevation_m,education_1preHS_2HS_3above HS,irrig_water_m3ha
+ProvinceNo,Province,Province_number,FarmCount,CountyCount,Region,Region_NW1_SW2_NE3,Water_source_well0_canal1,network_traditional0_modern1,Ecwat,crop_area_ha,soil_texture_heavy0normallight1,Ecsoil,cultivar_704_1_other_2,growth_days_GI,irrig_method_surf0_pressure1,irrigation_count,yield_tonha,Climate,Climate_cold0_warm1,ETo_mm,elevation_m,education_1preHS_2HS_3above HS,irrig_water_m3ha
 1,Alborz,1,6,2,NW,1,0.2,0.3,0.4,8,0.8,0.5,1,97.2,0.8,10.7,51.3,semi arid cold,0,572,1453,3,8126
 2,Tehran,2,19,3,NW,1,0.3,0.5,0.9,7,0.2,1.5,1.1,96.7,0.6,8.2,53.8,arid-cold,0,637,1074,2.5,6384
 3,Gazvin,3,10,2,NW,1,0,0.3,2.9,18,0.2,2.1,1.4,106,0.7,9.1,49.1,semi arid cold,0,673,1281,2.4,8001
